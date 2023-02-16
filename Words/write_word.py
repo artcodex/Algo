@@ -1,4 +1,5 @@
 import os
+import sys
 import time
 import subprocess
 
@@ -31,6 +32,13 @@ def commit_word():
     subprocess.run('git push origin master', shell=True)
     subprocess.run('git push public master', shell=True)
 
-while True:
+
+counter = int(sys.argv[1])
+timespan = int(sys.argv[2]) * 60
+ceiling = counter*3600
+current = 0
+while current < ceiling:
     commit_word()
-    time.sleep(600)
+    time.sleep(timespan)
+    current += timespan
+    print ("Running for: " + (current / 60) + " minutes")
