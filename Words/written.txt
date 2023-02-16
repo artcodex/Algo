@@ -28,3 +28,4 @@ ZZZ
 5-point
 5-T
 5th
+6-point
