@@ -1,4 +1,5 @@
 import os
+import subprocess
 
 index = 0
 j = 0
@@ -23,7 +24,7 @@ with open('written.txt','a') as written:
 with open('current.txt', 'w') as index_file:
     index_file.writelines(str(index+1))
 
-os.popen('git add .')
-os.popen('git commit -m "Adding word ' + word + '"') 
-os.popen('git push origin master')
-os.popen('git push public master')
+subprocess.run('git add .', shell=True)
+subprocess.run('git commit -m "Adding word ' + word + '"', shell=True) 
+subprocess.run('git push origin master', shell=True)
+subprocess.run('git push public master', shell=True)

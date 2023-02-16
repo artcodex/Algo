@@ -11,3 +11,5 @@ ZZZ
 18-point
 1st
 2,4,5-t
+2,4-d
+20-point
