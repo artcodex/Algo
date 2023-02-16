@@ -8,3 +8,6 @@ ZZZ
 11-point
 12-point
 16-point
+18-point
+1st
+2,4,5-t
