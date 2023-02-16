@@ -35,10 +35,10 @@ def commit_word():
 
 counter = int(sys.argv[1])
 timespan = int(sys.argv[2]) * 60
-ceiling = counter*3600
+ceiling = counter*60
 current = 0
 while current < ceiling:
     commit_word()
     time.sleep(timespan)
     current += timespan
-    print ("Running for: " + (current / 60) + " minutes")
+    print ("Running for: " + str(current / 60) + " minutes")
