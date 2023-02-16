@@ -33,4 +33,4 @@ def commit_word():
 
 while True:
     commit_word()
-    time.sleep(30)
+    time.sleep(600)
