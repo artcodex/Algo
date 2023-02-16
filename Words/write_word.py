@@ -1,4 +1,5 @@
 import os
+import time
 import subprocess
 
 def commit_word():
@@ -30,4 +31,6 @@ def commit_word():
     subprocess.run('git push origin master', shell=True)
     subprocess.run('git push public master', shell=True)
 
-commit_word()
+while True:
+    commit_word()
+    time.sleep(5)
