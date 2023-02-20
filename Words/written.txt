@@ -99,3 +99,4 @@ aal
 Aalborg
 Aalesund
 aalii
+aaliis
