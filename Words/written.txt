@@ -97,3 +97,4 @@ aahs
 AAII
 aal
 Aalborg
+Aalesund
