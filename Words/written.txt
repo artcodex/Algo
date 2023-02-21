@@ -118,3 +118,4 @@ Aarau
 AARC
 aardvark
 aardvarks
+aardwolf
