@@ -144,3 +144,4 @@ aasvogels
 AAU
 AAUP
 AAUW
+AAVSO
