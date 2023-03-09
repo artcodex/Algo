@@ -213,3 +213,4 @@ abalone
 abalones
 Abama
 abamp
+abampere
