@@ -222,3 +222,4 @@ abandon
 abandonable
 abandoned
 abandonedly
+abandonee
