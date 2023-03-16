@@ -245,3 +245,4 @@ abarthrosis
 abarticular
 abarticulation
 Abas
+abase
