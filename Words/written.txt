@@ -249,3 +249,4 @@ abase
 abased
 abasedly
 abasedness
+abasement
