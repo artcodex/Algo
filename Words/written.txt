@@ -253,3 +253,4 @@ abasement
 abasements
 abaser
 abasers
+abases
