@@ -254,3 +254,4 @@ abasements
 abaser
 abasers
 abases
+Abasgi
