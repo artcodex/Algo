@@ -267,3 +267,4 @@ abashment
 abashments
 abasia
 abasias
+abasic
