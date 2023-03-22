@@ -277,3 +277,4 @@ Abassin
 abastard
 abastardize
 abastral
+abatable
