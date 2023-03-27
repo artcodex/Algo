@@ -280,3 +280,4 @@ abastral
 abatable
 abatage
 Abate
+abated
