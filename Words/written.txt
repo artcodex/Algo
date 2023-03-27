@@ -289,3 +289,4 @@ abates
 abatic
 abating
 abatis
+abatised
