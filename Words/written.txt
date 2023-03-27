@@ -283,3 +283,4 @@ Abate
 abated
 abatement
 abatements
+abater
