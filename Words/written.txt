@@ -300,3 +300,4 @@ ABATS
 abattage
 abattis
 abattised
+abattises
