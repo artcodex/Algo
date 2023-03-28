@@ -299,3 +299,4 @@ abators
 ABATS
 abattage
 abattis
+abattised
