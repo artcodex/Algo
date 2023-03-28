@@ -298,3 +298,4 @@ abator
 abators
 ABATS
 abattage
+abattis
