@@ -292,3 +292,4 @@ abatis
 abatised
 abatises
 abatjour
+abatjours
