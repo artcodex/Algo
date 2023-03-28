@@ -294,3 +294,4 @@ abatises
 abatjour
 abatjours
 abaton
+abator
