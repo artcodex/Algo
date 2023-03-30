@@ -306,3 +306,4 @@ abattoirs
 abattu
 abattue
 Abatua
+abature
