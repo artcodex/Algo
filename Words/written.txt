@@ -305,3 +305,4 @@ abattoir
 abattoirs
 abattu
 abattue
+Abatua
