@@ -304,3 +304,4 @@ abattises
 abattoir
 abattoirs
 abattu
+abattue
