@@ -29,6 +29,7 @@ def commit_word():
 
     subprocess.run('git add .', shell=True)
     subprocess.run('git commit -m "Adding word ' + word + '"', shell=True) 
+    subprocess.run('git push layout master', shell=True)
     subprocess.run('git push origin master', shell=True)
     subprocess.run('git push public master', shell=True)
 
