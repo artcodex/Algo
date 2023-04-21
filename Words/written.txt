@@ -370,3 +370,4 @@ Abbottstown
 Abboud
 abbozzo
 ABBR
+abbrev
