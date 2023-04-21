@@ -372,3 +372,4 @@ abbozzo
 ABBR
 abbrev
 abbreviatable
+abbreviate
